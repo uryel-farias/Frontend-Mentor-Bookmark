@@ -1,0 +1,30 @@
+.header {
+    max-width: 1440px;
+    margin: 0 auto;
+}
+
+.nav-bar {
+    display: flex;
+    justify-content: space-between;
+
+
+}
+
+.nav-bar-logo {
+    height: max-content;
+}
+
+.nav-bar-ul {
+    display: flex;
+    gap: 2rem;
+    
+}
+
+.nav-bar-ul li {
+    border: solid black 2px;
+
+}
+
+.nav-bar-link {
+    text-decoration: none;
+}

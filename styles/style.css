@@ -1,3 +1,5 @@
+@import url(./header.css);
+
 :root {
 --primary-soft-blue: hsl(231, 69%, 60%);
 --primary-soft-red: hsl(0, 94%, 66%);
